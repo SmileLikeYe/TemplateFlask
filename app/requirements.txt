@@ -1,1 +1,3 @@
 Flask==0.12
+leancloud==2.1.3
+requests==
