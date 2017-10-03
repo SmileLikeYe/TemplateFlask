@@ -16,6 +16,9 @@ cd TemplateFlask/app
 > lsof -i:5000    
 > kill -9（线程id）
 
+# ChangeLog:
+* 2017.10.03 增加leancloud的后台支持
+* 2017.09.28 项目基础框架搭建完成
 
 @Smile_安之
 
