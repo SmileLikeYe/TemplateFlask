@@ -6,6 +6,8 @@
 >virtualenv
 详细的参见：http://www.jianshu.com/p/f654f9895555
 
+
+
 # 运行
 cd TemplateFlask/app
 > source venv/bin/active  
@@ -19,7 +21,8 @@ cd TemplateFlask/app
 > kill -9（线程id）
 
 # ChangeLog:
-* 2017.10.03 增加leancloud的后台支持
+* 2017.10.07 添加demo项目，包括表达提交和echarts动态加载
+* 2017.10.03 增加leancloud的后台支持, 理解参见: http://www.jianshu.com/p/3915d6b75de3
 * 2017.09.28 项目基础框架搭建完成
 
 @Smile_安之
