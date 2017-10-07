@@ -18,7 +18,7 @@ WebsiteURL: 作为网站的接口
 '''
 @app.route('/')
 def index():
-    return render_template("index.html", data)
+    return render_template("index.html")
 
 '''
 BackendApi: 作为后台的接口

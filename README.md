@@ -2,7 +2,9 @@
 常需一个麻雀虽小，五脏齐全的网页逐赛，抑或demo。遂理此最精简框架，拿去直接做开发，至上线。
 
 # 环境
-参见：http://www.jianshu.com/p/f654f9895555
+>python2.7
+>virtualenv
+详细的参见：http://www.jianshu.com/p/f654f9895555
 
 # 运行
 cd TemplateFlask/app
